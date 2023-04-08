@@ -2,7 +2,7 @@
 # Złotek Sebastian, Żak Maciej L06
 
 #-----------------------------------------------------------
-setwd("C:/Users/Sebastian/Desktop/studia 2 sem/Programowanie w R - lab") # Ustawienie glownego katalogu
+setwd("filepath") # Ustawienie glownego katalogu
 
 #-----------------------------------------------------------
 
