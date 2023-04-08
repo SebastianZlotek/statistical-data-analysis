@@ -3,7 +3,7 @@
 #-----------------------------------------------------------
 
 # Ustawienie glownego katalogu
-setwd("C:/Users/Sebastian/Desktop/Studia/II rok 2 semestr/Statystyczna_Analiza_Danych_LAB")
+setwd("filepath")
 getwd()
 
 #-----------------------------------------------------------
